@@ -1,0 +1,43 @@
+* {
+    text-decoration: none;
+}
+
+.dropdown-items {
+    width: 50px;
+    height: 50px;
+}
+
+table {
+    display: none;
+}
+
+.menu-items {
+
+}
+
+.top {
+    text-align: end;
+}
+
+.middle {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 15%;
+}
+
+.bottom {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.buttons {
+    margin-right: 15px;
+}
+
+#search-bar {
+    border: none;
+    border-radius: 25px;
+    font-size: 30px;
+    box-shadow: 4px 2px 5px grey;
+}
